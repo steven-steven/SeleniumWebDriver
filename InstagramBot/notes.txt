@@ -1,0 +1,4 @@
+selenium
+geckodriver
+- turn firefox into bot with python
+- add geckodriver to C:/Windows (in PATH)
